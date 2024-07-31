@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    position: right
-    about: True
+    position: left
+    about: False
     education: True
 
     name: Maksym Stavytskyi
-    tagline: Senior Delivery Manager | SAFe® RTE | PMP®
+    tagline: Senior Delivery Manager | SAFe® RTE | KMP |  PMP®
     avatar: profile.png
 
     email: stavytskyi@gmail.com
