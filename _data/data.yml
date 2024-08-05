@@ -15,10 +15,10 @@ sidebar:
     phone: +380638339871
     timezone: Europe/Kyiv
     citizenship: Ukraine
-    linkedin: your-linkedin-username
-    github: your-github-username
-    twitter: your-twitter-handle
-    pdf: http://example.com/path-to-your-pdf
+#    linkedin: your-linkedin-username
+#    github: your-github-username
+#    twitter: your-twitter-handle
+#    pdf: http://example.com/path-to-your-pdf
 
     languages:
       title: Languages
